@@ -15,8 +15,6 @@ void merge(vector<int>& array,int lowind,int midind,int highind){
 	for (vector<int>::const_iterator i = L.begin();i!=L.end();i++){
 //		cout <<*i<<' ';
 	 }
-//	cout<<endl;
-//	cout<<"R= ";
 
 	for (vector<int>::const_iterator i = R.begin();i!=R.end();i++){
 //		cout<<*i<<' ';
